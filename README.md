@@ -1,8 +1,3 @@
-Getting_Cleaning_Data
-=====================
-
-Repo for Getting and Cleaning Data course project.
-
 This Read Me file describes the R file 'run_analysis.R' in detail,
 particularly how it meets the course requirements.  
 

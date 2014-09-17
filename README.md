@@ -1,7 +1,7 @@
 This Read Me file describes the R file 'run_analysis.R' in detail,
-particularly how it meets the course requirements.  
+particularly how it meets the project requirements.  
 
-Below are the course requirements, in order.  The code in 'run_analysis.R
+Below are the project requirements, in order.  The code in 'run_analysis.R
 also follows these steps in order and have been commented accordingly.
 
 1. Merge the training and test sets into one data set
@@ -96,7 +96,7 @@ also follows these steps in order and have been commented accordingly.
 	* 'tidyDF' then each field is summarized by getting the mean
 	  of each field (excluding the grouping fields)
 
-	* Finally 'tidyDF' is written to a text file using 
+	* Finally 'tidyDF' is written to a "tidy_dataset.txt" using 
 	  write.table()
 
         

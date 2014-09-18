@@ -95,6 +95,10 @@ also follows these steps in order and have been commented accordingly.
 
 	* 'tidyDF' then each field is summarized by getting the mean
 	  of each field (excluding the grouping fields)
+	
+	* The library 'reshape' is loaded to allow the melting of the 
+	  data set into a 'tall, skinny' format grouping the data by 
+	  each reading type
 
 	* Finally 'tidyDF' is written to a "tidy_dataset.txt" using 
 	  write.table()
